@@ -2,7 +2,6 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Luiz Otávio, tenho 20 anos, natural de Manaus-AM, porém atualmente resido em Fortaleza-CE, sou apaixonado por tecnologia, música, videogame e esportes
 
 ---
 ### Principais linguagens e tecnologias
