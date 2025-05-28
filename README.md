@@ -32,23 +32,15 @@ Olá! Sou Luiz Otávio, um profissional apaixonado por tecnologia e dados, atual
 - **Ferramentas de BI e Visualização:** Power BI (desenvolvimento de relatórios e dashboards interativos), Excel (Tabelas Dinâmicas, Power Query, Fórmulas Avançadas)
 - **Análise de Dados:** Coleta, limpeza e tratamento de dados (ETL básico), Análise Exploratória de Dados (EDA), Estatística Descritiva, Storytelling com Dados.
 - **Outras Ferramentas:** Git & GitHub, Jupyter Notebooks/Lab, Docker (básico, se aplicável).
-- **Conhecimentos Adquiridos:** Lógica de programação, Resolução de problemas complexos, Desenvolvimento de APIs (FastAPI), JavaScript, Node.js (mencionar brevemente se quiser mostrar amplitude).
+- **Conhecimentos Adquiridos:** Lógica de programação, Resolução de problemas complexos, Desenvolvimento de APIs (FastAPI), JavaScript, Node.js.
 
 ---
 
 ### 🚀 Projetos de Análise de Dados em Destaque
 
-#### 📊 [Nome do Projeto 1: Análise de [TEMA DO PROJETO]](URL_DO_SEU_REPOSITORIO_1)
-*Breve descrição do projeto (1-2 linhas): Qual problema você resolveu ou qual pergunta de negócio você respondeu? Quais foram os principais insights?*
-**Tecnologias:** Python (Pandas, Matplotlib), Jupyter Notebook, [outras ferramentas].
-
-#### 📈 [Nome do Projeto 2: Dashboard Interativo de [TEMA DO PROJETO] com Power BI](URL_DO_SEU_REPOSITORIO_2_OU_LINK_PUBLICO_DO_DASHBOARD)
-*Breve descrição: Qual o objetivo do dashboard? Quais KPIs são monitorados? Como ele ajuda na tomada de decisão?*
-**Tecnologias:** Power BI, DAX, Excel (para tratamento de dados, se aplicável).
-
-#### 🔎 [Nome do Projeto 3: Análise Exploratória de [NOME DO DATASET]](URL_DO_SEU_REPOSITORIO_3)
-*Breve descrição: Exploração de um dataset para identificar padrões, anomalias e gerar hipóteses. Detalhe as etapas de limpeza e as principais descobertas.*
-**Tecnologias:** Python (Pandas, Seaborn, NumPy), SQL, [outras ferramentas].
+#### 📊 [Análise de Dados Fitness Bellabeat: Insights para Estratégias de Marketing](https://github.com/luzotavio/Bellabeat-Data-Analysis-Google-Capstone-Project.git)
+*Este projeto realizou uma análise abrangente de dados de rastreadores de fitness (FitBit), provenientes de um estudo da Fitabase (MTurk), para compreender os padrões de atividade diária, sono e outras métricas de saúde dos usuários. O objetivo principal foi identificar comportamentos chave e tendências de uso, culminando na formulação de recomendações estratégicas de marketing baseadas em dados para a Bellabeat, visando otimizar o engajamento de diferentes segmentos de usuários e alinhar os produtos da empresa às suas necessidades.*
+**Tecnologias:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.
 
 ---
 
