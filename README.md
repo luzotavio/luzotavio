@@ -56,9 +56,9 @@ Olá! Sou Luiz Otávio, um profissional apaixonado por tecnologia e dados, atual
 <br clear="left"/> ---
 
 ### 🌱 Atualmente Aprendendo
-- [Ex: Machine Learning com Scikit-learn]
-- [Ex: Técnicas avançadas de SQL e otimização de queries]
-- [Ex: Storytelling com dados e melhores práticas de visualização]
+-Machine Learning com Scikit-learn
+- Técnicas avançadas de SQL e otimização de queries
+- Storytelling com dados e melhores práticas de visualização
 
 ---
 *Este perfil está sendo atualizado para refletir minha jornada e foco na área de Análise de Dados.*
