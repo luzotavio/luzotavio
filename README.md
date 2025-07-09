@@ -6,11 +6,11 @@
 ---
 
 ## 👋 Sobre Mim
-Olá! Sou Luiz Otávio, um profissional apaixonado por tecnologia e dados, atualmente em transição de carreira para a Análise de Dados após uma jornada como Desenvolvedor Back-end. Meu objetivo é utilizar dados para descobrir tendências, gerar insights valiosos e auxiliar na tomada de decisões estratégicas e baseadas em evidências. Estou dedicando meus estudos ao ecossistema de dados, incluindo Python (com foco em Pandas, NumPy, Matplotlib), SQL para manipulação e consulta de bancos de dados, e ferramentas de BI como Power BI e Excel. Busco oportunidades para aplicar meu conhecimento analítico, resolver problemas complexos e crescer profissionalmente na área de dados!
+Olá! Sou Luiz Otávio, um profissional apaixonado por tecnologia e dados. Meu objetivo é utilizar dados para descobrir tendências, gerar insights valiosos e auxiliar na tomada de decisões estratégicas e baseadas em evidências. Estou dedicando meus estudos ao ecossistema de dados, incluindo Python (com foco em Pandas, NumPy, Matplotlib), SQL para manipulação e consulta de bancos de dados, e ferramentas de BI como Power BI e Excel. Busco oportunidades para aplicar meu conhecimento analítico, resolver problemas complexos e crescer profissionalmente na área de dados!
 
 ---
 
-### 💻 Principais Ferramentas e Tecnologias (Foco em Dados)
+### 💻 Principais Ferramentas e Tecnologias 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Pandas" title="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
@@ -27,11 +27,11 @@ Olá! Sou Luiz Otávio, um profissional apaixonado por tecnologia e dados, atual
 
 ### 🛠️ Habilidades Técnicas Detalhadas
 
-- **Linguagens de Programação:** Python (Pandas, NumPy, Matplotlib), SQL
+- **Linguagens de Programação:** Python (Pandas, NumPy, Matplotlib), Javascrpit, Java.
 - **Bancos de Dados:** MySQL, PostgreSQL - Criação de consultas, manipulação de dados, junções.
-- **Ferramentas de BI e Visualização:** Power BI (desenvolvimento de relatórios e dashboards interativos), Excel (Tabelas Dinâmicas, Power Query, Fórmulas Avançadas)
+- **Ferramentas de BI e Visualização:** Power BI (desenvolvimento de relatórios e dashboards interativos), Excel (Tabelas Dinâmicas, Power Query, Fórmulas Avançadas), Tableu
 - **Análise de Dados:** Coleta, limpeza e tratamento de dados (ETL básico), Análise Exploratória de Dados (EDA), Estatística Descritiva, Storytelling com Dados.
-- **Outras Ferramentas:** Git & GitHub, Jupyter Notebooks/Lab, Docker (básico, se aplicável).
+- **Outras Ferramentas:** Git & GitHub, Jupyter Notebooks/Lab, Docker.
 - **Conhecimentos Adquiridos:** Lógica de programação, Resolução de problemas complexos, Desenvolvimento de APIs (FastAPI), JavaScript, Node.js.
 
 ---
