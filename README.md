@@ -44,21 +44,4 @@ Olá! Sou Luiz Otávio, um profissional apaixonado por tecnologia e dados. Meu o
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzotavio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-<br clear="left"/> ---
 
-### 🌱 Atualmente Aprendendo
--Machine Learning com Scikit-learn
-- Técnicas avançadas de SQL e otimização de queries
-- Storytelling com dados e melhores práticas de visualização
-
----
-*Este perfil está sendo atualizado para refletir minha jornada e foco na área de Análise de Dados.*
