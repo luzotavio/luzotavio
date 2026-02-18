@@ -38,10 +38,10 @@ Olá! Sou Luiz Otávio, um profissional apaixonado por tecnologia e dados. Meu o
 
 ### 🚀 Projetos de Análise de Dados em Destaque
 
-#### 📊 [Análise de Dados Fitness Bellabeat: Insights para Estratégias de Marketing](https://github.com/luzotavio/Bellabeat-Data-Analysis-Google-Capstone-Project.git)
-*Este projeto realizou uma análise abrangente de dados de rastreadores de fitness (FitBit), provenientes de um estudo da Fitabase (MTurk), para compreender os padrões de atividade diária, sono e outras métricas de saúde dos usuários. O objetivo principal foi identificar comportamentos chave e tendências de uso, culminando na formulação de recomendações estratégicas de marketing baseadas em dados para a Bellabeat, visando otimizar o engajamento de diferentes segmentos de usuários e alinhar os produtos da empresa às suas necessidades.*
-**Tecnologias:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.
+#### 📊 [🛍️ Análise de Comportamento de Compra do Consumidor (End-to-End)](https://github.com/luzotavio/shopping-behavior-analysis.git)
+*Neste projeto, simulei um ambiente corporativo real de varejo, executando o ciclo completo do dado (End-to-End). Realizei o ETL de 3.900 transações com Python, processei consultas complexas em SQL (PostgreSQL) para identificar padrões de receita e desenvolvi um Dashboard interativo no Power BI focado em UX/UI. O projeto culminou em um Relatório Executivo Estratégico com recomendações para aumentar a fidelização de clientes, demonstrando a transição do dado bruto para o insight acionável.
 
 ---
 
-
+#### 📊 [Análise Estratégica de Vendas: Diagnóstico de Saúde Financeira)](https://github.com/luzotavio/Analise-Estrategica-de-Vendas-E-commerce-.git)
+*Nesta consultoria de dados simulada para um grande e-commerce, realizei um diagnóstico profundo para identificar "sangramentos de caixa" e gargalos operacionais. Utilizei Python para realizar uma análise exploratória (EDA) que revelou a baixa rentabilidade de categorias específicas e a dependência de picos sazonais. O foco principal foi o desenvolvimento de KPIs financeiros, como o Sales-to-Profit Ratio, para traduzir o volume de vendas em eficiência real para a diretoria
